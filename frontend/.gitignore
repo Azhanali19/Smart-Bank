@@ -1,0 +1,55 @@
+# -------------------------------
+# Node.js
+# -------------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Cache
+.cache/
+.tmp/
+
+# -------------------------------
+# Python
+# -------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+
+# Python logs
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.pyd
+*.dll
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# -------------------------------
+# OS-specific junk
+# -------------------------------
+.DS_Store
+Thumbs.db

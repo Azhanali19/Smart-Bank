@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+
+# Python logs
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.pyd
+*.dll
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# -------------------------------
+# OS-specific junk
+# -------------------------------
+.DS_Store
+Thumbs.db
