@@ -35,6 +35,9 @@ Show active loans, EMI schedule, and remaining balance.
 
 🧠 Approach
 Step 1: Design the Database
+
 Step 2: Set Up the Backend API
+
 Step 3: Add Authentication
+
 Step 4: Integrate Frontend
